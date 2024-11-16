@@ -1,0 +1,17 @@
+{
+    "_default": {
+        "2": {
+            "name": "Joe Jim",
+            "age": 235
+        },
+        "3": {
+            "name": "Jane Jim",
+            "age": 24
+        },
+        "4": {
+            "name": "4",
+            "table": 2,
+            "color": "red"
+        }
+    }
+}
